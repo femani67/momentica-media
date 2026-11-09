@@ -1,7 +1,7 @@
 # Daily Hafez fal carousel
 
 Setup (fresh machine):
-    cd tools/fal && npm i @fontsource/vazirmatn @fontsource/noto-naskh-arabic && pip install playwright --break-system-packages
+    cd tools/fal && npm i @fontsource/vazirmatn @fontsource/noto-naskh-arabic @fontsource/lalezar && pip install playwright --break-system-packages
 Build:
     python3 build.py ghazal.json out_dir   # writes slide1..N.png (1080x1350)
 
