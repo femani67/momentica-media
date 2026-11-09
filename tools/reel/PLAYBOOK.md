@@ -1,42 +1,48 @@
-# momentica reel playbook (based on real results)
+# momentica reel playbook — v2 (2026-11-09)
 
-## Why the 2026-11-08 22:00 night-note reel won (820 views, 685 reach, 5 shares, 3 saves on a ~40-follower page)
-| signal | night note 22:00 | feel game 18:30 | fal carousel 10:00 |
-|---|---|---|---|
-| views / reach | 820 / 685 | 278 / 240 | 129 / 45 |
-| >3s view rate | 61.6% | 38.3% | – |
-| avg watch | 5.6s of 12s | 6.4s of 12s | – |
-| shares | 5 | 2 | 2 |
+The owner rejected the v1 look (dark overlay, big bold popping text, framed cover, big end card) as repetitive.
+**All new reels use tools/reel/minimal_reel.py** (v1 make_reel.py is kept only for reference).
 
-What worked:
-1. **Instant hook on moving real footage** – first word at 0.3s over rain video. The game reel opened on a static navy card for 2s and lost 60% in 3s.
-2. **One relatable longing feeling (دلتنگی/عاشقانه) in simple spoken Persian** – something people want to send to *one specific person*.
-3. **Explicit DM-share trigger tied to the text**: «بفرستش برای کسی که …» → shares are what pushed it to non-followers.
-4. **Night slot (22:00)** – emotional content when people scroll in bed.
-5. Kinetic word-by-word pop text (Lalezar, white + gold key word), real footage, soft piano, logo end card.
-Weakness: viewers left around 5–6s → keep reels 8–9s so they loop.
+## What the owner's reference reels have in common (5 viral examples, 3K–99K likes)
+1. Real, natural-colour footage that feels like a real moment (moon behind rain clouds, sun rays through clouds, sunset in a car side-mirror, a full orange moon). No dark overlay, no heavy grading.
+2. Little or no text. When there is text it is small, calm, placed in the empty sky area, with at most ONE big word (e.g. «دفاع»). Or a dense typographic block on a plain dark background (one format).
+3. Tiny page signature at the bottom. No frame, no end card, no big logo.
+4. Themes: hope / God / fate (قسمت), longing, love, night, rain, the moon, the road.
+5. The caption carries the story/CTA; the video stays quiet.
 
-## Rules for every reel
-- 1080x1920, 8–11s. First text on screen by 0.3s. Never open on a static/plain card.
-- Background = REAL footage only (rain, sea, road, sky, city night, candle, coffee, nature). Never CGI/animated clips. Mixkit clips with license `videoFree` only (check JSON-LD `license` on the mixkit page).
-- Music: Mixkit instrumental (`musicFree`), piano/soft for notes, light/upbeat for games. Never copyrighted songs.
-- Text: max ~10 words before the CTA, colloquial Persian, one gold accent word (the emotional core). Never use the "X is not just Y" construction (e.g. «نه تنها… که…»).
-- End card (last ~2.5s): «بفرستش برای کسی که …» (night note) / «تو کامنت بنویس + بفرستش برای رفیقت» (game) + full logo.
-- Cover: same navy/gold frame style (make_reel.py does it). Grid must stay cohesive.
-- Caption: line 1 = the hook text; then share CTA; then a one-emoji/one-word comment prompt; 5–7 hashtags incl. #momentica.
+## Research notes (hooks)
+- 3-second hold is the main ranking signal: reels keeping 70–85% past 3s get ~2.2x views; under 60% gets throttled. Our data: night note 62% (good), game reel 38% (static intro = bad).
+- Instagram's head says polished aesthetics now read as cheap; authentic, real-moment footage wins.
+- Loops under ~7–9s get replayed more; most views come from non-followers, so shares/DM sends matter most.
 
-## 22:00 night note (کلمه‌به‌کلمه دلنوشته)
-Two short phrases + CTA. Phrase 1 = the feeling (dlتنگی/عشق/انتظار/خاطره), phrase 2 = the emotional punch. Rotate background clip every night (never same clip two nights in a row). Write ORIGINAL lines (never song lyrics).
+## Hooks to use (rotate, never the same two days running)
+- **Image hook**: the first frame is already striking (moon, rays, rain on glass, mirror sunset) — text optional.
+- **Dialogue hook**: «گفت: … / گفتم: …» (mahsophoto style).
+- **Timestamp hook**: «۲۲:۲۲ و هنوز بیدارم…» / «۱۸:۱۸ چه بارونی…» small, top.
+- **Direct-address hook**: «اگه این رو می‌بینی…» / «یکی هست که…».
+- **One-big-word hook**: small line + one huge word + small line (kimia_gaar «دفاع» style).
 
-## 18:30 "stop the video" game (نگهش دار و انتخاب کن)
-Question over the first moving clip (≈2s), 8 options × 0.4s, shown twice, then CTA. Rotate the question in this order (continue from tools/reel/log.md):
-1. حس امروزت کدومه؟  2. امروز دلت چی می‌خواد؟  3. کلمه‌ی امروزت چیه؟  4. الان دلت کجاست؟  5. پیام امروز برای تو (short sentences as options)  6. بیت تو کدومه؟ (short classical half-beyts, verified)  7. امشب حالت چطوره؟
-Change the 8 options and clips each time; each option word must match its clip.
+## Formats (rotate; each day's two reels must use two DIFFERENT formats, and differ from the previous day's)
+F1 Quote-on-sky: bright sky/sea/clouds footage, white small text + one big word, text in sky area.
+F2 Night dialogue: moon/night sky, small «گفت/گفتم» block above the subject, accent colour on one word.
+F3 Silent moment: real POV footage (rain on window, road at sunset, mirror sunset, sea) with NO on-screen text except maybe a tiny timestamp; the line goes in the caption. 7s, loops.
+F4 Typography block: bg "color:#2b313b" (or another muted dark tone), 4–6 lines of dense large text (class "block"), original words, light grey text.
+F5 Timestamp/POV: small timestamp line + 1–2 short lines over rain/night city/window footage.
 
-## Verified real Mixkit clips (free license)
-2846 rain on window · 1164 sea waves (vertical) · 4852 empty road · 4664 couple at sunset · 4119 sunset over sea · 4433 full moon · 1168 flowers (vertical) · 236 coffee · 10050 autumn leaves falling (real) · 45271 autumn forest pan
-URL pattern: https://assets.mixkit.co/videos/<id>/<id>-720.mp4 (or -1080). Find more on https://mixkit.co/free-stock-video/<topic>/ (parse JSON-LD VideoObject, keep license containing `videoFree`).
-Music: piano 22, night sky 168, upbeat 493 → https://assets.mixkit.co/music/<id>/<id>.mp3 (more on https://mixkit.co/free-stock-music/…).
+## Rules
+- 7–10s. First visual/line by 0.3s. Never open on a plain static card (except F4, where the text itself is the image and must appear immediately).
+- REAL footage only (no CGI/animated clips). Mixkit `videoFree` clips only (check JSON-LD license). Natural colours: grade at most `eq=saturation=1.0-1.08:brightness=-0.03..0.03`.
+- Make sure the subject (moon, sun, mirror) doesn't sit under the text: crop or pre-scale (`pre_vf`, `crop_vf`) to move it.
+- Text: ORIGINAL Persian (or verified classical poetry / folk proverb). Never song lyrics. Never the "X is not just Y" construction. Simple spoken Persian.
+- Never reuse a clip used in the last 7 days (see log.md). Look for new real clips on mixkit topic pages (sky, clouds, moon, rain, sea, road, driving, sunset, city night, window, candle, forest, snow, coffee).
+- Music: Mixkit instrumental (`musicFree`) — piano/soft. Rotate tracks.
+- Fonts in automation: free Vazirmatn 300 (small) + 900 (big word) — defaults of minimal_reel.py. (Owner's licensed fonts Kahroba/Lahzeh are NOT in this repo.)
+- Caption: line 1 = the hook/line; then «بفرستش برای کسی که …»; one emoji comment prompt; 5–7 hashtags incl. #momentica.
+- Look at frames at 0.5s, middle, end before scheduling: readable, subject not covered, signature visible.
 
 ## Review loop
-Each run: read the last 3 days of reel metrics in Metricool (views, reach, shares, saves, >3s view rate, avg watch). Append a line to tools/reel/log.md and lean toward whatever got the most shares.
+Every run: read last 3 days' reel metrics (views, reach, shares, saves, >3s rate, avg watch). Log them in log.md and favour the format/hook with the most shares + highest 3s rate, while still rotating.
+
+## Verified real Mixkit clips (free)
+sky/clouds: 26108, 51102, 51105 · moon: 48025 (pre_vf scale=-2:2600 + crop to move moon down), 4433, 47299 · rain on window: 2846 · sea: 1164 (vertical), 4119 sunset sea · road/driving: 4852, 45312 autumn road, 27717 night drive · couple sunset 4664 · flowers 1168 · coffee 236 · autumn leaves 10050
+URL: https://assets.mixkit.co/videos/<id>/<id>-1080.mp4 (or -720). Music: 22, 168, 493 → https://assets.mixkit.co/music/<id>/<id>.mp3
