@@ -1,7 +1,0 @@
-{"kind":"note","duration":9,
- "bg":{"url":"https://assets.mixkit.co/videos/1164/1164-720.mp4","ss":2,"crop_x":"center"},
- "music":"https://assets.mixkit.co/music/168/168.mp3",
- "phrases":[{"start":0.3,"end":3.3,"step":0.25,"lines":[[["دلم",""],["برات",""]],[["یه","a big"],["ذره","a big"]],[["شده…",""]]]},
-            {"start":3.7,"end":6.2,"step":0.3,"lines":[[["ولی","sm"],["هنوز","sm"]],[["منتظرتم.","a big"]]]}],
- "cta":{"start":6.5,"step":0.16,"lines":[[["بفرستش","big"]],[["برای","sm"],["کسی","sm"],["که","sm"]],[["دلت","a sm"],["براش","a sm"],["تنگه","a sm"]]]},
- "cover_lines":["دلم برات","<a>یه ذره</a>","شده…"],"cover_size":150}
