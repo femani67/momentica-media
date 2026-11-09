@@ -39,7 +39,7 @@ def page(inner, idx, total, foot=True, top=None):
     dots = "".join(f'<i class="{"on" if i==idx else ""}"></i>' for i in range(total))
     f = f'<div class="foot"><img src="data:image/png;base64,{MARK}"><span>MOMENTICA.IR</span></div>' if foot else ""
     t = f'<div class="top">{top}</div>' if top else ""
-    return f'<html><head><meta charset="utf-8"><style>{BASE}</style></head><body><div class="frame"></div>{t}<div class="content">{inner}</div><div class="dots">{dots}</div>{f}</body></html>'
+    return f'<html><head><meta charset="utf-8"><style>{BASE}</style></head><body><div class="frame"></div>{t}<div class="content">{inner}</div>{f}</body></html>'
 
 def beyts(pairs):
     return "".join(f'<div class="beyt"><span class="m">{a}</span><span class="m gold">{b}</span></div>' for a,b in pairs)
