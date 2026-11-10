@@ -1,0 +1,37 @@
+{
+ "format": "F5 timestamp/POV",
+ "hook": "timestamp hook ۲۳:۴۰",
+ "duration": 9,
+ "bg": "https://assets.mixkit.co/active_storage/video_items/99841/1717105845/99841-video-1080.mp4",
+ "ss": 2,
+ "crop_x": "center",
+ "music": "https://assets.mixkit.co/music/614/614.mp3",
+ "color": "#f3efe8",
+ "accent": "#f6c98a",
+ "mark": "#efe7da",
+ "top": 320,
+ "small": 54,
+ "t0": 0.1,
+ "gap": 0.7,
+ "shadow": "0 2px 16px rgba(0,0,0,.6)",
+ "grade": "eq=saturation=1.0:brightness=0.0",
+ "sig_bottom": 260,
+ "lines": [
+  [
+   "۲۳:۴۰",
+   ""
+  ],
+  [
+   "بارون گرفته…",
+   ""
+  ],
+  [
+   "و من باز پیامی نوشتم",
+   ""
+  ],
+  [
+   "که هیچ‌وقت <span class=acc>نمی‌فرستم</span>",
+   ""
+  ]
+ ]
+}
