@@ -1,6 +1,6 @@
-{"format":"F1 quote-on-sky","hook":"one-big-word hook «پرواز»",
- "duration":8,"bg":"https://assets.mixkit.co/videos/1926/1926-1080.mp4","ss":0,"crop_x":1100,
- "music":"https://assets.mixkit.co/music/127/127.mp3","color":"#ffffff","accent":"#ffffff","mark":"#fff3ea","top":330,
- "small":54,"big":190,"t0":0.1,"gap":0.6,"shadow":"0 2px 14px rgba(80,30,40,.35)",
- "grade":"eq=saturation=1.03:brightness=0.0","sig_bottom":240,
- "lines":[["دلت که سبک بشه،",""],["پرواز","big"],["یادت میاد…",""]]}
+{"format":"S1 send-to-someone (big text)","hook":"on-screen share prompt «اینو بفرست برای کسی که…»",
+ "duration":9,"bg":"https://assets.mixkit.co/videos/1197/1197-1080.mp4","ss":1,"crop_x":"center",
+ "music":"https://assets.mixkit.co/music/443/443.mp3","color":"#14233a","accent":"#9a5a1c","mark":"#14233a","top":250,
+ "small":50,"big":104,"t0":0.05,"gap":0.45,"shadow":"0 0 22px rgba(255,255,255,.55)",
+ "grade":"eq=saturation=1.04:brightness=0.0","sig_bottom":180,
+ "lines":[["اینو بفرست برای کسی که",""],["این روزا","big"],["زیادی قوی بوده","big"],["<span style='display:inline-block;margin-top:34px'>می‌دونم خسته‌ای…</span>",""],["ولی هنوز سرپایی، <span class=acc>به خودت افتخار کن.</span>",""]]}

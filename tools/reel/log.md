@@ -23,3 +23,6 @@
 → F2 dialogue is the best recent format → 22:00 F2 (new clip, new line). 18:30 must differ from F3/F5: F1 retried with one-big-word hook (not a quote), moving bird footage and text visible from 0.1s to fix the weak 3s rate.
 2026-11-11 | 18:30 F1 quote-on-sky | one-big-word hook: دلت که سبک بشه، / «پرواز» / یادت میاد… | 1926 seabird pink sunset sea (crop_x 1100) | music 127 Valley Sunset
 2026-11-11 | 22:00 F2 night dialogue | گفت: چرا هنوز بیداری؟ / گفتم: ماه هم بیداره… / هر دومون «منتظر» یکی هستیم. | 45584 full moon clouds (crop_x 1540) | music 592 Miss You
+2026-11-11 | REPLACED same day: owner said all reels look alike and won't go viral; asked to copy what high-share pages do. Instagram/competitor data not reachable from automation (login wall, no Metricool competitors), so switched to share-driven formats:
+2026-11-11 | 18:30 S1 send-to-someone (big bold text) | اینو بفرست برای کسی که / این روزا زیادی قوی بوده / می‌دونم خسته‌ای… ولی هنوز سرپایی، به خودت افتخار کن. | 1197 pier + heron (vertical) | music 443 Serene View
+2026-11-11 | 22:00 S2 unsent chat message | امروز ۲۳:۴۸ / [بیداری؟] / [دلم برات تنگ شده] / ارسال نشد · دوباره امتحان کن | 3458 candle in the dark (vertical) | music 683 Thinking About You
