@@ -1,4 +1,11 @@
-# momentica reel playbook — v2 (2026-11-09)
+# momentica reel playbook — v2 (2026-11-09), updated 2026-11-11
+
+## Owner feedback 2026-11-11 (overrides the "small calm text" look below)
+The minimal small-text-on-stock-footage reels all look alike and don't get shared. Goal = SHARES + comments, like high-share pages.
+- Text must be BIG and readable in 2s (bold Vazirmatn 900 headline), not tiny lines in the sky.
+- Build the share into the video itself: on-screen «اینو بفرست برای کسی که…» / a relatable chat-bubble moment («ارسال نشد»), a tag prompt in the caption («اسمش رو تگ کن»).
+- Share-driven formats: S1 send-to-someone (big text), S2 chat bubbles / unsent message, plus F2 dialogue (best of the old ones). Every day must look visibly different (layout, colour, font size), not only a different clip.
+- If the owner sends screenshots of viral reels, or adds viral pages as Metricool competitors (IGCR metrics), copy their structure first.
 
 The owner rejected the v1 look (dark overlay, big bold popping text, framed cover, big end card) as repetitive.
 **All new reels use tools/reel/minimal_reel.py** (v1 make_reel.py is kept only for reference).

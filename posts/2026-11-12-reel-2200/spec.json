@@ -1,0 +1,9 @@
+{"format":"S2 unsent chat message","hook":"chat-bubble hook: «بیداری؟» → «دلم برات تنگ شده» → ارسال نشد",
+ "duration":9,"bg":"https://assets.mixkit.co/videos/3458/3458-1080.mp4","ss":0,"crop_x":"center",
+ "music":"https://assets.mixkit.co/music/683/683.mp3","color":"#ffffff","accent":"#ff6b6b","mark":"#efe2cc","top":330,
+ "small":52,"t0":0.05,"gap":0.75,"shadow":"none",
+ "grade":"eq=saturation=1.0:brightness=0.0","sig_bottom":180,
+ "lines":[["<span style='font-size:34px;color:#cfcfcf;text-shadow:0 2px 10px #000'>امروز ۲۳:۴۸</span>",""],
+  ["<div style='text-align:right;margin-top:26px'><span style='display:inline-block;background:#2b7cff;color:#fff;border-radius:46px 46px 12px 46px;padding:20px 40px;font-size:58px;line-height:1.45'>بیداری؟</span></div>",""],
+  ["<div style='text-align:right;margin-top:18px'><span style='display:inline-block;background:#2b7cff;color:#fff;border-radius:46px 46px 12px 46px;padding:20px 40px;font-size:58px;line-height:1.45'>دلم برات تنگ شده</span></div>",""],
+  ["<div style='text-align:right;margin-top:10px;font-size:34px;color:#ff6b6b;text-shadow:0 2px 10px #000'>ارسال نشد · دوباره امتحان کن</div>",""]]}

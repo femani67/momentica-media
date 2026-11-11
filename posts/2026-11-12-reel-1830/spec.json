@@ -1,0 +1,6 @@
+{"format":"S1 send-to-someone (big text)","hook":"on-screen share prompt «اینو بفرست برای کسی که…»",
+ "duration":9,"bg":"https://assets.mixkit.co/videos/1197/1197-1080.mp4","ss":1,"crop_x":"center",
+ "music":"https://assets.mixkit.co/music/443/443.mp3","color":"#14233a","accent":"#9a5a1c","mark":"#14233a","top":250,
+ "small":50,"big":104,"t0":0.05,"gap":0.45,"shadow":"0 0 22px rgba(255,255,255,.55)",
+ "grade":"eq=saturation=1.04:brightness=0.0","sig_bottom":180,
+ "lines":[["اینو بفرست برای کسی که",""],["این روزا","big"],["زیادی قوی بوده","big"],["<span style='display:inline-block;margin-top:34px'>می‌دونم خسته‌ای…</span>",""],["ولی هنوز سرپایی، <span class=acc>به خودت افتخار کن.</span>",""]]}
