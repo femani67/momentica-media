@@ -1,0 +1,6 @@
+{"format":"F2 night dialogue","hook":"dialogue hook «گفت: چرا هنوز بیداری؟»",
+ "duration":9,"bg":"https://assets.mixkit.co/videos/45584/45584-720.mp4","ss":1,"crop_x":1540,
+ "music":"https://assets.mixkit.co/music/592/592.mp3","color":"#eef0f4","accent":"#f3d9a4","mark":"#e9e6df","top":250,
+ "small":56,"t0":0.1,"gap":0.8,"shadow":"0 2px 14px rgba(0,0,0,.7)",
+ "grade":"eq=saturation=1.0:brightness=0.0","sig_bottom":240,
+ "lines":[["گفت: چرا هنوز بیداری؟",""],["گفتم: ماه هم بیداره…",""],["هر دومون <span class=acc>منتظر</span> یکی هستیم.",""]]}
