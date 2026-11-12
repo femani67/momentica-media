@@ -26,3 +26,12 @@
 2026-11-11 | owner feedback: all reels look alike and won't go viral; copy what high-share pages do. Instagram/competitor data not reachable from automation (login wall, no Metricool competitors). The F1/F2 reels above were already published before the replacement was ready, so the new share-driven formats are scheduled for 2026-11-12:
 2026-11-12 | 18:30 S1 send-to-someone (big bold text) | اینو بفرست برای کسی که / این روزا زیادی قوی بوده / می‌دونم خسته‌ای… ولی هنوز سرپایی، به خودت افتخار کن. | 1197 pier + heron (vertical) | music 443 Serene View
 2026-11-12 | 22:00 S2 unsent chat message | امروز ۲۳:۴۸ / [بیداری؟] / [دلم برات تنگ شده] / ارسال نشد · دوباره امتحان کن | 3458 candle in the dark (vertical) | music 683 Thinking About You
+
+## metrics check 2026-11-12 (Metricool IGRE, views / reach / shares / saves / >3s / avg watch s)
+- 11-11 22:00 F2 dialogue moon (45584): 195 / 161 / 2 / 1 / 54.1% / 4.5 — <1 day old
+- 11-11 18:30 F1 one-big-word «پرواز» (1926): 189 / 159 / 0 / 0 / 49.4% / 4.0 — F1 3s rate improved (36→49%) but still 0 shares
+- 11-10 22:00 F5 timestamp rain: 207 / 168 / 1 / 0 / 50.0% / 5.1
+- 11-10 18:30 F3 silent sandbar: 32 / 10 / 0 / 0 / 50.0% / 15.8 — barely distributed
+- 11-09 22:00 F2 dialogue moon: 685 / 593 / 9 / 1 / 57.3% / 5.4 — still best of the recent formats
+- 11-08 22:00 note rain (reference winner): 3088 / 2538 / 65 / 10 / 62.0% / 6.3
+→ 22:00 night/longing first-person lines keep winning; 18:30 sky/sea reels stay ~0 shares. Both 2026-11-12 slots (S1 send-to-someone 18:30, S2 unsent chat 22:00) were already scheduled in Metricool by the previous run → this run skipped building new reels. Next run: compare S1/S2 shares against F2.
