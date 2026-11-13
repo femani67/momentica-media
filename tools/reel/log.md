@@ -35,3 +35,14 @@
 - 11-09 22:00 F2 dialogue moon: 685 / 593 / 9 / 1 / 57.3% / 5.4 — still best of the recent formats
 - 11-08 22:00 note rain (reference winner): 3088 / 2538 / 65 / 10 / 62.0% / 6.3
 → 22:00 night/longing first-person lines keep winning; 18:30 sky/sea reels stay ~0 shares. Both 2026-11-12 slots (S1 send-to-someone 18:30, S2 unsent chat 22:00) were already scheduled in Metricool by the previous run → this run skipped building new reels. Next run: compare S1/S2 shares against F2.
+
+## metrics check 2026-11-13 (Metricool IGRE, views / reach / shares / saves / >3s / avg watch s)
+- 11-12 22:00 S2 unsent chat (3458 candle): 14 / 7 / 0 / 0 / 37.5% / 5.5 — <1 day old, barely distributed
+- 11-12 18:30 S1 send-to-someone big text (1197 pier): 28 / 12 / 0 / 0 / 69.2% / 8.2 — <1 day old; best >3s rate ever (big bold text hooks)
+- 11-11 22:00 F2 dialogue moon (45584): 211 / 168 / 2 / 1 / 56.2% / 4.7
+- 11-11 18:30 F1 one-big-word «پرواز» (1926): 200 / 166 / 0 / 0 / 50.3% / 3.9
+- 11-10 22:00 F5 timestamp rain: 213 / 172 / 1 / 0 / 50.6% / 5.1
+- 11-09 22:00 F2 dialogue moon: 690 / 596 / 9 / 1 / 57.1% / 5.4 · 11-08 22:00 note rain (reference winner): 3110 / 2570 / 65 / 10 / 62.0% / 6.3
+→ Big bold text (S1) gave the best 3s hold; shares still come from first-person night longing lines («به امید یه پیام از تو» = the 11-08 winner's theme). Today: 18:30 F4 dense big typography block over real road-sunset footage (new look: right-aligned block on the dark road, sun clear above); 22:00 F5 timestamp with a big middle line over a city-lights blue-hour view, reusing the winner's "waiting for a message" theme.
+2026-11-13 | 18:30 F4 typography block | direct-address hook: اگه اینو می‌بینی / یعنی هنوز / «راه هست.» / آروم برو، / ولی برو. | 50134 road toward sunset (center crop) | music 1081 We'll Be Okay
+2026-11-13 | 22:00 F5 timestamp/POV | ۰۰:۱۷ / «شهر خوابید…» / ولی یه چراغ هنوز روشنه، / به امید «یه پیام» از تو. | 3132 city lights time-lapse at blue hour (center crop) | music 601 Skyline

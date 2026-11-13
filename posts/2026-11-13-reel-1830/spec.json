@@ -1,0 +1,6 @@
+{"format":"F4 typography block (dense big text over real road-sunset footage)","hook":"direct-address hook «اگه اینو می‌بینی…»",
+ "duration":8,"bg":"https://assets.mixkit.co/videos/50134/50134-1080.mp4","ss":2,"crop_x":"center",
+ "music":"https://assets.mixkit.co/music/1081/1081.mp3","color":"#fff4e2","accent":"#ffc46b","mark":"#fff4e2","top":1060,
+ "small":50,"big":122,"t0":0.05,"gap":0.3,"shadow":"0 4px 24px rgba(0,0,0,.55)",
+ "grade":"eq=saturation=1.04:brightness=0.0","sig_bottom":150,
+ "lines":[["<div style='text-align:right'>اگه اینو می‌بینی</div>","block"],["<div style='text-align:right'>یعنی هنوز</div>","block"],["<div style='text-align:right' class=acc>راه هست.</div>","block"],["<div style='text-align:right'>آروم برو،</div>","block"],["<div style='text-align:right'>ولی برو.</div>","block"]]}

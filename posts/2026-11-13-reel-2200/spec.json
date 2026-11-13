@@ -1,0 +1,38 @@
+{
+ "format": "F5 timestamp/POV (city lights at blue hour, big middle line)",
+ "hook": "timestamp hook «۰۰:۱۷»",
+ "duration": 8.5,
+ "bg": "https://assets.mixkit.co/videos/3132/3132-1080.mp4",
+ "ss": 1,
+ "crop_x": "center",
+ "music": "https://assets.mixkit.co/music/601/601.mp3",
+ "color": "#ffffff",
+ "accent": "#ffcf7a",
+ "mark": "#f3e6cf",
+ "top": 300,
+ "small": 70,
+ "big": 150,
+ "t0": 0.05,
+ "gap": 0.35,
+ "shadow": "0 2px 18px rgba(0,0,0,.45)",
+ "grade": "eq=saturation=1.04:brightness=0.02",
+ "sig_bottom": 160,
+ "lines": [
+  [
+   "<span class=acc style='font-size:58px;letter-spacing:6px'>۰۰:۱۷</span>",
+   ""
+  ],
+  [
+   "شهر خوابید…",
+   "big"
+  ],
+  [
+   "ولی یه چراغ هنوز روشنه،",
+   ""
+  ],
+  [
+   "به امید <span class=acc>یه پیام</span> از تو.",
+   ""
+  ]
+ ]
+}
